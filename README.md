@@ -25,3 +25,4 @@ The user can send commands from a serial terminal such as PuTTY, Tera Term, or V
 
 ## Demo
 <img width="1083" height="381" alt="螢幕擷取畫面 2026-05-14 134050" src="https://github.com/user-attachments/assets/8b74a292-f2c4-40b9-a875-f9ad15f0caf7" />
+<img width="3024" height="4032" alt="IMG_8177" src="https://github.com/user-attachments/assets/509dfd64-7a52-449d-8cb8-7bbaa2b9e9e8" />
